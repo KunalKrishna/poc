@@ -1,2 +1,2 @@
 # poc
-REST API using spring boot 3.1
+REST API using Spring Boot 3.0.10
